@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Goda</h1>
-<h3 align="center">Computer Engineering Student | Frontend Developer | Networking Enthusiast As a fourth-year Computer Engineering student, I am passionate about creating intuitive and dynamic user experiences. My expertise lies in frontend programming, with a strong command of Java, C#, HTML, and CSS. In addition to my development skills, I possess basic networking knowledge, which complements my technical abilities. I am eager to apply my skills in real-world projects and collaborate with professionals to further hone my craft. I am continuously learning and staying up-to-date with the latest industry trends to ensure I can contribute effectively to any team.</h3>
+<h3 align="center">Computer Engineering Student | Frontend Developer | Networking Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed171102&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed171102" /> </p>
 
