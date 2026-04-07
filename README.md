@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Goda</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Adel Goda</h1>
 <h3 align="center">Computer Engineering Student | Frontend Developer | Networking Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed171102&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed171102" /> </p>
