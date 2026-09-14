@@ -15,6 +15,63 @@
 <a href="https://linkedin.com/in/ahmed171102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed171102" height="30" width="40" /></a>
 </p>
 
+---
+
+## 🎓 Featured: Graduation Project
+
+### [Eshara — Bilingual Sign Language Recognition System](https://github.com/ahmed171102/Eshara)
+
+A real-time, bilingual (**American Sign Language** + **Arabic Sign Language**) web platform that recognizes letters and words from a standard webcam and turns them into text/chat messages. Built as a three-tier system (**React** frontend → **Node.js/Express** app layer → **FastAPI** inference layer) powering **four separate deep-learning models**:
+
+| Model | Language | Architecture | Accuracy |
+|---|---|---|---|
+| Letter recognition | ASL | MLP on hand landmarks | 99.06% |
+| Letter recognition | ArSL | MLP on hand landmarks | 99.63% |
+| Word recognition | ASL | Inception I3D (100 WLASL glosses) | 65.89% Top-1 |
+| Word recognition | ArSL | Stacked BiLSTM (100 KArSL classes) | 99.62% |
+
+Also includes an **Education Module** (sign viewer, sentence builder, practice mode with live feedback) and a full 9-chapter thesis. B.Sc. Final Year Project, AASTMT — Computer Engineering, July 2026.
+
+---
+
+## 🚀 Projects
+
+A selection of coursework and personal projects, each with its own README covering setup, architecture, and known limitations.
+
+### Full-stack / Mobile
+| Project | Description |
+|---|---|
+| [**CustomsX**](https://github.com/ahmed171102/customsx) | Flutter + Node.js/Express + MongoDB app for customs clearance — declarations, duty/fee calculator, IMEI checker, document management, shipment tracking. |
+
+### Backend / APIs
+| Project | Description |
+|---|---|
+| [**GamesFoodApi**](https://github.com/ahmed171102/Assignment-2-Web-Engineering) | ASP.NET Core Web API for Games/Food resources — interface → service → controller architecture with Swagger UI. |
+| [**FlyRank Task API**](https://github.com/ahmed171102/Flyrank-Tasks-) | Node.js/Express CRUD API for tasks, with input validation, Swagger docs, and an automated test suite. |
+| [**MkDocs RAG API**](https://github.com/ahmed171102/RAG-Assignment) | FastAPI Retrieval-Augmented Generation service — chunks docs into ChromaDB, answers questions with Google Gemini. |
+
+### Desktop apps (C# / WinForms)
+| Project | Description |
+|---|---|
+| [**Disaster Relief Management System**](https://github.com/ahmed171102/DRMS) | WinForms + SQL Server app for coordinating disaster events, shelters, resources, volunteers, and relief requests. Includes a fixed SQL injection vulnerability and a full reconstructed schema. |
+| [**TCP File Transfer**](https://github.com/ahmed171102/FTP) | Peer-to-peer file transfer over raw TCP sockets — no cloud, no third-party server, just two machines and a socket. |
+| [**Course Management CLI**](https://github.com/ahmed171102/course-management-cli) | Console app demonstrating OOP (inheritance/polymorphism) with role-based Admin/Instructor/Student menus and JSON persistence. |
+
+### Machine learning
+| Project | Description |
+|---|---|
+| [**Brain Tumor Segmentation (BraTS2020)**](https://github.com/ahmed171102/brain-tumor-brats2020) | 3D U-Net segmentation on multi-modal MRI volumes, with tumor volume estimation, severity classification, and generated patient reports. |
+| [**CIFAR-10: VGG16 vs. Self-Attention**](https://github.com/ahmed171102/CNN-Attentation-Task) | Compares a baseline VGG16 transfer-learning classifier against the same backbone with a custom self-attention block. |
+| [**Seq2Seq Spell Checker**](https://github.com/ahmed171102/seq2seq-spell-checker) | Character-level encoder-decoder with attention and beam search decoding for context-aware spelling correction, served via Flask. |
+
+### Embedded systems / low-level
+| Project | Description |
+|---|---|
+| [**PIC Traffic Light with Emergency Interrupt**](https://github.com/ahmed171102/Traffic-Light-With-Interrupts) | PIC16F877A firmware (mikroC) driving a traffic light sequence on LEDs/LCD, with an external hardware interrupt for an emergency stop. |
+| [**xv6-riscv**](https://github.com/ahmed171102/xv6-riscv) | Operating systems coursework built on MIT's xv6 — a small teaching Unix-like OS for RISC-V. |
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
@@ -23,4 +80,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed171102&show_icons=true&locale=en" alt="ahmed171102" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed171102&" alt="ahmed171102" /></p>
-
