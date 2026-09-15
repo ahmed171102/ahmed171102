@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel Goda</h1>
-<h3 align="center">Computer Engineering Student | Frontend Developer | Networking Enthusiast </h3>
+<h3 align="center">Computer Engineering Student | Frontend Developer | Networking Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed171102&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed171102" /> </p>
 
@@ -46,29 +46,33 @@ A selection of coursework and personal projects, each with its own README coveri
 ### Backend / APIs
 | Project | Description |
 |---|---|
-| [**GamesFoodApi**](https://github.com/ahmed171102/Assignment-2-Web-Engineering) | ASP.NET Core Web API for Games/Food resources — interface → service → controller architecture with Swagger UI. |
-| [**FlyRank Task API**](https://github.com/ahmed171102/Flyrank-Tasks-) | Node.js/Express CRUD API for tasks, with input validation, Swagger docs, and an automated test suite. |
-| [**MkDocs RAG API**](https://github.com/ahmed171102/RAG-Assignment) | FastAPI Retrieval-Augmented Generation service — chunks docs into ChromaDB, answers questions with Google Gemini. |
+| [**GamesFoodApi**](https://github.com/ahmed171102/aspnet-games-food-api) | ASP.NET Core Web API for Games/Food resources — interface → service → controller architecture with Swagger UI. |
+| [**FlyRank Task API**](https://github.com/ahmed171102/flyrank-task-api) | Node.js/Express CRUD API for tasks, with input validation, Swagger docs, and an automated test suite. |
+| [**MkDocs RAG API**](https://github.com/ahmed171102/mkdocs-rag-api) | FastAPI Retrieval-Augmented Generation service — chunks docs into ChromaDB, answers questions with Google Gemini. |
 
 ### Desktop apps (C# / WinForms)
 | Project | Description |
 |---|---|
-| [**Disaster Relief Management System**](https://github.com/ahmed171102/DRMS) | WinForms + SQL Server app for coordinating disaster events, shelters, resources, volunteers, and relief requests. Includes a fixed SQL injection vulnerability and a full reconstructed schema. |
-| [**TCP File Transfer**](https://github.com/ahmed171102/FTP) | Peer-to-peer file transfer over raw TCP sockets — no cloud, no third-party server, just two machines and a socket. |
+| [**Disaster Relief Management System**](https://github.com/ahmed171102/disaster-relief-management) | WinForms + SQL Server app for coordinating disaster events, shelters, resources, volunteers, and relief requests. Includes a fixed SQL injection vulnerability and a full reconstructed schema. |
+| [**TCP File Transfer**](https://github.com/ahmed171102/tcp-file-transfer) | Peer-to-peer file transfer over raw TCP sockets — no cloud, no third-party server, just two machines and a socket. |
 | [**Course Management CLI**](https://github.com/ahmed171102/course-management-cli) | Console app demonstrating OOP (inheritance/polymorphism) with role-based Admin/Instructor/Student menus and JSON persistence. |
 
 ### Machine learning
 | Project | Description |
 |---|---|
 | [**Brain Tumor Segmentation (BraTS2020)**](https://github.com/ahmed171102/brain-tumor-brats2020) | 3D U-Net segmentation on multi-modal MRI volumes, with tumor volume estimation, severity classification, and generated patient reports. |
-| [**CIFAR-10: VGG16 vs. Self-Attention**](https://github.com/ahmed171102/CNN-Attentation-Task) | Compares a baseline VGG16 transfer-learning classifier against the same backbone with a custom self-attention block. |
+| [**CIFAR-10: VGG16 vs. Self-Attention**](https://github.com/ahmed171102/cifar10-vgg16-attention) | Compares a baseline VGG16 transfer-learning classifier against the same backbone with a custom self-attention block. |
 | [**Seq2Seq Spell Checker**](https://github.com/ahmed171102/seq2seq-spell-checker) | Character-level encoder-decoder with attention and beam search decoding for context-aware spelling correction, served via Flask. |
 
 ### Embedded systems / low-level
 | Project | Description |
 |---|---|
-| [**PIC Traffic Light with Emergency Interrupt**](https://github.com/ahmed171102/Traffic-Light-With-Interrupts) | PIC16F877A firmware (mikroC) driving a traffic light sequence on LEDs/LCD, with an external hardware interrupt for an emergency stop. |
+| [**PIC Traffic Light with Emergency Interrupt**](https://github.com/ahmed171102/pic-traffic-light) | PIC16F877A firmware (mikroC) driving a traffic light sequence on LEDs/LCD, with an external hardware interrupt for an emergency stop. |
 | [**xv6-riscv**](https://github.com/ahmed171102/xv6-riscv) | Operating systems coursework built on MIT's xv6 — a small teaching Unix-like OS for RISC-V. |
+
+---
+
+### 🌐 Also check out my portfolio site: [ahmed-adel-goda.vercel.app](https://ahmed-adel-goda.vercel.app)
 
 ---
 
